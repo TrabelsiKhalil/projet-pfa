@@ -22,7 +22,7 @@ En fait, les besoins fonctionnels servent a mieux comprendre le role de systeme 
 En effet, **notre systeme devra repondre aux besoins fonctionnels suivants :**
 
 ### A - LES BESOINS FONCTIONNELS:
-L’application offre aux les clients les fonctionnalites suivantes :<br> 
+L’application offre aux  clients les fonctionnalites suivantes :<br> 
 * Login/signup <br>
    connecter a l'application avec google auth
 
